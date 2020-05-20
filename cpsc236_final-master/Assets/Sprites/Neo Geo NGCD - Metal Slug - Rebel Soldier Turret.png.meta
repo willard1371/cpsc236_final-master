@@ -1,0 +1,2119 @@
+fileFormatVersion: 2
+guid: e8fa9d71e6ebdc349b5dac40303c3973
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6417268529870617676
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_20
+  - first:
+      213: -8547956380984101361
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_21
+  - first:
+      213: 4318558253303529856
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_22
+  - first:
+      213: 7197509432596530269
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_23
+  - first:
+      213: -3517702397336792275
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_24
+  - first:
+      213: -5396785430309133107
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_35
+  - first:
+      213: -6682925769137708229
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_36
+  - first:
+      213: 5748213060207086837
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_37
+  - first:
+      213: 3098996804246081367
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_38
+  - first:
+      213: 3513237105727597937
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_39
+  - first:
+      213: -972940992188927236
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_40
+  - first:
+      213: 6220624627231972362
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_41
+  - first:
+      213: 8569806116275500585
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_42
+  - first:
+      213: 653044913877877632
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_43
+  - first:
+      213: -6157673672400045580
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_44
+  - first:
+      213: 3026431766978970884
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_45
+  - first:
+      213: 3073707371119126699
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_46
+  - first:
+      213: 4073617728061048933
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_47
+  - first:
+      213: 6635993665056627877
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_48
+  - first:
+      213: 413195138840839449
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_49
+  - first:
+      213: 7354394043023271596
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_50
+  - first:
+      213: 9149428033960391664
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_51
+  - first:
+      213: -3613263002738498022
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_52
+  - first:
+      213: 5387667452995462496
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_53
+  - first:
+      213: -8307639887578811284
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_54
+  - first:
+      213: 562208042108194242
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_69
+  - first:
+      213: 33915885448045030
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_70
+  - first:
+      213: -9133143292538881375
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_71
+  - first:
+      213: -26155591557993749
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_72
+  - first:
+      213: -7219991630558695947
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_73
+  - first:
+      213: 3958381549101044456
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_74
+  - first:
+      213: 7315236054209023280
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_75
+  - first:
+      213: 8477256528806856139
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_76
+  - first:
+      213: 694793053636546403
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_77
+  - first:
+      213: -1629313720021881048
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_78
+  - first:
+      213: -2698250962139366020
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_79
+  - first:
+      213: -641746626251499303
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_80
+  - first:
+      213: 6959024209803851399
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_81
+  - first:
+      213: 6936433180936771382
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_82
+  - first:
+      213: 7080795449089942633
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_83
+  - first:
+      213: -7699113567401630233
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_84
+  - first:
+      213: -1915378604555585739
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_85
+  - first:
+      213: 1569677593095177277
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_86
+  - first:
+      213: 3054326324898624627
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_87
+  - first:
+      213: -720688491147248938
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_88
+  - first:
+      213: -1286153855686414979
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_89
+  - first:
+      213: 8093411851919213569
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_90
+  - first:
+      213: 2120992637880880478
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_91
+  - first:
+      213: -1047544297091770325
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_92
+  - first:
+      213: 8715625928527064602
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_93
+  - first:
+      213: -2654131170101257043
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_94
+  - first:
+      213: 1675527449073505324
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_95
+  - first:
+      213: 7507212888727438176
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_96
+  - first:
+      213: -8798021298188806653
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_97
+  - first:
+      213: -8127439952306875948
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_98
+  - first:
+      213: -144315585033285685
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_99
+  - first:
+      213: 1989439151657097283
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_100
+  - first:
+      213: -2399870856103950299
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_101
+  - first:
+      213: -8201744182962324002
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_102
+  - first:
+      213: -7636789419144885246
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_103
+  - first:
+      213: 3159137233671892480
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_104
+  - first:
+      213: 9039683705029393648
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_105
+  - first:
+      213: -4742849280814916746
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_106
+  - first:
+      213: 1666158764982736114
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_107
+  - first:
+      213: -112520280145609353
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_108
+  - first:
+      213: -5480930290784269499
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_109
+  - first:
+      213: -5959405168951554346
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_110
+  - first:
+      213: 6899313427876532165
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_111
+  - first:
+      213: 6437497647739932329
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_112
+  - first:
+      213: -2146950017207782342
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_113
+  - first:
+      213: -1982999293318501057
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_114
+  - first:
+      213: -367130656767892215
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_115
+  - first:
+      213: 8824609267024545188
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_116
+  - first:
+      213: -6424000569506771649
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_117
+  - first:
+      213: 3510351825186755070
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_118
+  - first:
+      213: 2688901985649165119
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_119
+  - first:
+      213: -4536713838070903442
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_120
+  - first:
+      213: 9012870289846205867
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_121
+  - first:
+      213: 6626520116798013290
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_122
+  - first:
+      213: 512680624697697019
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_123
+  - first:
+      213: -3083409582463174887
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_124
+  - first:
+      213: 3457133678189688783
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_125
+  - first:
+      213: 2550823496807947902
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_126
+  - first:
+      213: 2270269367528553888
+    second: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_127
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1257
+        width: 72
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67999aa5fcbdbd41ab7681282838f62
+      internalID: -6417268529870617676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_21
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1257
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9c3885c858b4c43bf0027ef2c6990b
+      internalID: -8547956380984101361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_22
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1257
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3838831b6c3a764499e1a4b6339fc43
+      internalID: 4318558253303529856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_23
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1257
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a02021b9d03f534e943a9d6c43d82bd
+      internalID: 7197509432596530269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_24
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1257
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31932c8cf771d946b80c74156419250
+      internalID: -3517702397336792275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1185
+        width: 100
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599fe4441150b9e4d976b3aeef00bb56
+      internalID: -5396785430309133107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_36
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1185
+        width: 90
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7047ed857433687419437d8808c0cc91
+      internalID: -6682925769137708229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_37
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1185
+        width: 96
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a360f06befed245b4dfeffbf2c025a
+      internalID: 5748213060207086837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_38
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1185
+        width: 72
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d350ac41a42189949b1367f9d97aa8c6
+      internalID: 3098996804246081367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1122
+        width: 84
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c67f44f6d5632749a3e6b3f4a130dca
+      internalID: 3513237105727597937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_40
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1128
+        width: 75
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea578fd603a078740a1af74f641d1706
+      internalID: -972940992188927236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_41
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1128
+        width: 76
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cec48462e6d6e845bf8c42230139f6a
+      internalID: 6220624627231972362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_42
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1128
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a339fc0ae72a9bc4f978d5c16596c4cc
+      internalID: 8569806116275500585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1057
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0111954a0276a41bbad5ad216f5277
+      internalID: 653044913877877632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_44
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1063
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28540db4500799448f514eed12240a4
+      internalID: -6157673672400045580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_45
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1058
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f836fbba8fc82fa46af8bce4b07e56b3
+      internalID: 3026431766978970884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_46
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1069
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecce0a6d56b8a347a6003c48806c331
+      internalID: 3073707371119126699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 983
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5932161ebd21e5498ca75d687f93682
+      internalID: 4073617728061048933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_48
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 992
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762d851625ed98441bc1ce926b57d131
+      internalID: 6635993665056627877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_49
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 988
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c2a776f4be333409bb1e9ebc99f8a2
+      internalID: 413195138840839449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_50
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1001
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d1d9130dbadab46b53eb14860e8900
+      internalID: 7354394043023271596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_51
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 904
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7779bd50f3ac0694c9af0b2ab41c57ab
+      internalID: 9149428033960391664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_52
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 911
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dc49fe988641e4bafb23bbbb87be48
+      internalID: -3613263002738498022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_53
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 906
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324b4680bf7e76140a8e7d75d545859c
+      internalID: 5387667452995462496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_54
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 927
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c81d50a0998a144a1d7e66d4223bb6
+      internalID: -8307639887578811284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_69
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 835
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2074dfdfaac5ac48850c1cc8a6d7737
+      internalID: 562208042108194242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_70
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 835
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402d54fe10873e241bb6a13d8ce58d72
+      internalID: 33915885448045030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_71
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 835
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915c1c8e125ece14bb88800341c72f93
+      internalID: -9133143292538881375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_72
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 835
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f62ff8e71b58dc4fb411a9b6e802326
+      internalID: -26155591557993749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_73
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 835
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68de9e6b1aa705d4bbb2b4f5987c2cda
+      internalID: -7219991630558695947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_74
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 835
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8343f9d07e2c04590e1bcf8060fabe
+      internalID: 3958381549101044456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_75
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 798
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d44743eda321d45b5f579fb883d0cf
+      internalID: 7315236054209023280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_76
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 798
+        width: 70
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f162a3609250fc04a96313e71d629608
+      internalID: 8477256528806856139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_77
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 798
+        width: 68
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9361a6a104be43f44bd39b7dd8b3692b
+      internalID: 694793053636546403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_78
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 798
+        width: 70
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb6e3f4edfd86543acd34a5c1b0bc0e
+      internalID: -1629313720021881048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_79
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 796
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4cfbc6b965b0844bf492580c88adb5
+      internalID: -2698250962139366020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_80
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 796
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43981a3435e029f41a99a31be06db4b9
+      internalID: -641746626251499303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_81
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 796
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fa41a00a199f54d89563384ea57de7
+      internalID: 6959024209803851399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_82
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 796
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89746cf0549fb9c4e81323c2e3883d49
+      internalID: 6936433180936771382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_83
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 748
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf68c4fbdc56f841bad1c541fc05314
+      internalID: 7080795449089942633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_84
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 748
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d23987c556f73a419978ef8f589fbed
+      internalID: -7699113567401630233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_85
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 748
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5074d87c7a2a7c439cdaa6fee6b2e37
+      internalID: -1915378604555585739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_86
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 748
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9cc5af08e9e0c40896d584837b2b01
+      internalID: 1569677593095177277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_87
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 748
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69a039ac6bfc634c9b5b1373896d600
+      internalID: 3054326324898624627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_88
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 697
+        width: 87
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5176f501d0d2a484ba489cb1dbd94098
+      internalID: -720688491147248938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_89
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 697
+        width: 78
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d97a4dbf41c5634db9ae25bec4d09f3
+      internalID: -1286153855686414979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_90
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 697
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70e2f4619b0d51448d0b4675e435c40
+      internalID: 8093411851919213569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_91
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 697
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88920439ac47b894ab345630e903d872
+      internalID: 2120992637880880478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_92
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 697
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40e7e4afc7600742820c221eb3c8bf2
+      internalID: -1047544297091770325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_93
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 697
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930df64369cddae4da5111e7de3ff8b5
+      internalID: 8715625928527064602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_94
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 697
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccf731d25a339d49b744b4495ac4236
+      internalID: -2654131170101257043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_95
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 697
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbe98ae5f2f14a4cb164ed2bb838219
+      internalID: 1675527449073505324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_96
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 636
+        width: 77
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d540311c5de9446929a3dfc32f1582
+      internalID: 7507212888727438176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_97
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 642
+        width: 66
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ba22cdcf08aae49ac27eb53150135a
+      internalID: -8798021298188806653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_98
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 642
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936c4fd99b28b33468b93310f615eb2d
+      internalID: -8127439952306875948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_99
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 642
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e54750bc2fcb3439da7395a56041e9
+      internalID: -144315585033285685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_100
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 642
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b5a489b7e515b4591521bec0839c24
+      internalID: 1989439151657097283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_101
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 642
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e039f01b213c40a4c81f5e1c4c105edf
+      internalID: -2399870856103950299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_102
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 642
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dcaa0fb2b22b943ba2842816a3dac9
+      internalID: -8201744182962324002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_103
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 642
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c45cf299867be45b21bdab7fb9455b
+      internalID: -7636789419144885246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_104
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 574
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d711e570692c4cc40acafe3493313980
+      internalID: 3159137233671892480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_105
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 580
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059384326b5c7e343ba460a0f24c8213
+      internalID: 9039683705029393648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_106
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 575
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e377001175fee469b3274b21eab452
+      internalID: -4742849280814916746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_107
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 586
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27813136e6e51a24a8a4501fa20e5ed9
+      internalID: 1666158764982736114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_108
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 586
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9517509a84f0074458682211b7c9abc0
+      internalID: -112520280145609353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_109
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 586
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e135f8eb8e1f24ba9a210662d8f622
+      internalID: -5480930290784269499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_110
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 586
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc168cff0f03384a9de249c8cef74ef
+      internalID: -5959405168951554346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_111
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 586
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213f77c4471cee04f86fcf8743eaa23d
+      internalID: 6899313427876532165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_112
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 503
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c34d23c8efabd340b67b98a3b6ae2d5
+      internalID: 6437497647739932329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_113
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 512
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91309d0dffef7741838f887e1f03068
+      internalID: -2146950017207782342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_114
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 508
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b66224a640e32f40b123e23e7bb023e
+      internalID: -1982999293318501057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_115
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 521
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053159ded64a0d44d8b87ea46f0167fc
+      internalID: -367130656767892215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_116
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 523
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6af3cee13e6d14e95f859a82cdc2fb
+      internalID: 8824609267024545188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_117
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 523
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e1a26aa1c5fbc4a9449f6f0758c8c2
+      internalID: -6424000569506771649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_118
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 523
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12e0d0eca74dce4380b157b89a1494e
+      internalID: 3510351825186755070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_119
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 523
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c3c67b621b64b4c8542da0bfc289b0
+      internalID: 2688901985649165119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_120
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 431
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86527ed89470bcf43a048fc5a7e9a711
+      internalID: -4536713838070903442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_121
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 438
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e2e380110cd7a4e8a070735720420e
+      internalID: 9012870289846205867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_122
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 433
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5170b3be23d2c14393ac237dd51a470
+      internalID: 6626520116798013290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_123
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 454
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64e5dcdbf9b7e746a975e5030e97b42
+      internalID: 512680624697697019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_124
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 455
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2a6912478565648a2f9cdc38269992
+      internalID: -3083409582463174887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_125
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 455
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add0846b7df953d438a4d288f7498e9e
+      internalID: 3457133678189688783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_126
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 455
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640f7fca709dd554aa0c202106b7f0a4
+      internalID: 2550823496807947902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Rebel Soldier Turret_127
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 455
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fee71eac1cab194ca0bdab768fc0d9c
+      internalID: 2270269367528553888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

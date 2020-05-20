@@ -1,0 +1,2362 @@
+fileFormatVersion: 2
+guid: cf440075e35a6c042983188c36abc304
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -299175049185724401
+    second: metalslug_0
+  - first:
+      213: -8552064133609443549
+    second: metalslug_1
+  - first:
+      213: -3745236631614175320
+    second: metalslug_2
+  - first:
+      213: -5438728191065170544
+    second: metalslug_3
+  - first:
+      213: 3407275245833905335
+    second: metalslug_4
+  - first:
+      213: -924051767747443406
+    second: metalslug_5
+  - first:
+      213: -4827016079791844714
+    second: metalslug_6
+  - first:
+      213: 2392687506199774413
+    second: metalslug_7
+  - first:
+      213: 1676282923849326496
+    second: metalslug_8
+  - first:
+      213: -6428615346934383808
+    second: metalslug_9
+  - first:
+      213: -4712115820901586343
+    second: metalslug_10
+  - first:
+      213: 4198579982546097336
+    second: metalslug_11
+  - first:
+      213: 9159089737595879184
+    second: metalslug_12
+  - first:
+      213: 5466476606045928875
+    second: metalslug_13
+  - first:
+      213: 3475316557388134167
+    second: metalslug_14
+  - first:
+      213: -684465909253146221
+    second: metalslug_15
+  - first:
+      213: 4634720860067833110
+    second: metalslug_16
+  - first:
+      213: 8417293187636719309
+    second: metalslug_17
+  - first:
+      213: 1008465237462471274
+    second: metalslug_18
+  - first:
+      213: -2143647099183228869
+    second: metalslug_19
+  - first:
+      213: -7842100194928981106
+    second: metalslug_20
+  - first:
+      213: 2902476492456638554
+    second: metalslug_21
+  - first:
+      213: 6252238951195533956
+    second: metalslug_22
+  - first:
+      213: 7394241890909561986
+    second: metalslug_23
+  - first:
+      213: 4134889950174790450
+    second: metalslug_24
+  - first:
+      213: 4163841237012804492
+    second: metalslug_25
+  - first:
+      213: 7583418245831335694
+    second: metalslug_26
+  - first:
+      213: -2284794967378697612
+    second: metalslug_27
+  - first:
+      213: -6698971263280365647
+    second: metalslug_28
+  - first:
+      213: -1195253643778829723
+    second: metalslug_29
+  - first:
+      213: 2095998016210606360
+    second: metalslug_30
+  - first:
+      213: 4832582416452838594
+    second: metalslug_31
+  - first:
+      213: -50174043546664631
+    second: metalslug_32
+  - first:
+      213: -7498449469873007557
+    second: metalslug_33
+  - first:
+      213: 2252905752220556759
+    second: metalslug_34
+  - first:
+      213: 4043506407619959640
+    second: metalslug_35
+  - first:
+      213: -7645662839983913088
+    second: metalslug_36
+  - first:
+      213: -7253489949824096726
+    second: metalslug_37
+  - first:
+      213: -3690136205389061783
+    second: metalslug_38
+  - first:
+      213: -2023671259390313152
+    second: metalslug_39
+  - first:
+      213: -3865331758062589335
+    second: metalslug_40
+  - first:
+      213: 1376673177715606949
+    second: metalslug_41
+  - first:
+      213: -1608971241895183332
+    second: metalslug_42
+  - first:
+      213: 4123297443894849990
+    second: metalslug_43
+  - first:
+      213: -4045323970062976399
+    second: metalslug_44
+  - first:
+      213: -4505970487071273055
+    second: metalslug_45
+  - first:
+      213: -8689125053404717924
+    second: metalslug_46
+  - first:
+      213: -7704742738687824671
+    second: metalslug_47
+  - first:
+      213: 390445314628776390
+    second: metalslug_48
+  - first:
+      213: -3024680779171187260
+    second: metalslug_49
+  - first:
+      213: 2984635322158928316
+    second: metalslug_50
+  - first:
+      213: 9122859924932579332
+    second: metalslug_51
+  - first:
+      213: 8491671192792053022
+    second: metalslug_52
+  - first:
+      213: -9148259038300691545
+    second: metalslug_53
+  - first:
+      213: 7906708000818713177
+    second: metalslug_54
+  - first:
+      213: 349612088727122602
+    second: metalslug_55
+  - first:
+      213: -6438231244747032401
+    second: metalslug_56
+  - first:
+      213: -9182374861708040888
+    second: metalslug_57
+  - first:
+      213: -6569630152255788672
+    second: metalslug_58
+  - first:
+      213: 2139317994712760476
+    second: metalslug_59
+  - first:
+      213: -1898024391332282888
+    second: metalslug_60
+  - first:
+      213: 4224828278671876813
+    second: metalslug_61
+  - first:
+      213: 6801554404631169246
+    second: metalslug_62
+  - first:
+      213: 2626721966239196119
+    second: metalslug_63
+  - first:
+      213: 810798840906121373
+    second: metalslug_64
+  - first:
+      213: -1456670026178221017
+    second: metalslug_65
+  - first:
+      213: 198971178177829588
+    second: metalslug_66
+  - first:
+      213: 2061943218965433238
+    second: metalslug_67
+  - first:
+      213: 4067895502977623678
+    second: metalslug_68
+  - first:
+      213: 8871984211847425722
+    second: metalslug_69
+  - first:
+      213: -2451895404470382913
+    second: metalslug_70
+  - first:
+      213: -2618552663148947179
+    second: metalslug_71
+  - first:
+      213: -4383666138504583633
+    second: metalslug_72
+  - first:
+      213: 2445551927762507057
+    second: metalslug_73
+  - first:
+      213: -8920241859594654274
+    second: metalslug_74
+  - first:
+      213: 2880264461657208230
+    second: metalslug_75
+  - first:
+      213: 4702110312771295426
+    second: metalslug_76
+  - first:
+      213: -4791364186511421094
+    second: metalslug_77
+  - first:
+      213: -4216461800322924125
+    second: metalslug_78
+  - first:
+      213: 693591098600013346
+    second: metalslug_79
+  - first:
+      213: 3460845874518428150
+    second: metalslug_80
+  - first:
+      213: 361064430559763612
+    second: metalslug_81
+  - first:
+      213: 4474868334514584131
+    second: metalslug_82
+  - first:
+      213: 3098271883612535929
+    second: metalslug_83
+  - first:
+      213: -3577271099862527767
+    second: metalslug_84
+  - first:
+      213: 2060325859806172545
+    second: metalslug_85
+  - first:
+      213: 7530645692269568000
+    second: metalslug_86
+  - first:
+      213: -6059072233860394325
+    second: metalslug_87
+  - first:
+      213: -3416005922970547492
+    second: metalslug_88
+  - first:
+      213: -4824377110517298600
+    second: metalslug_89
+  - first:
+      213: -4660387768536120599
+    second: metalslug_90
+  - first:
+      213: -2700815808232956500
+    second: metalslug_91
+  - first:
+      213: -8167398159028692577
+    second: metalslug_92
+  - first:
+      213: 244572223033655056
+    second: metalslug_93
+  - first:
+      213: 123636490663806506
+    second: metalslug_94
+  - first:
+      213: 1805306535799933216
+    second: metalslug_95
+  - first:
+      213: -1891759795280757007
+    second: metalslug_96
+  - first:
+      213: 3493716983198238932
+    second: metalslug_97
+  - first:
+      213: 1902913645180050367
+    second: metalslug_98
+  - first:
+      213: -8745847376643330913
+    second: metalslug_99
+  - first:
+      213: 7725523342206528489
+    second: metalslug_100
+  - first:
+      213: -2511906183509828577
+    second: metalslug_101
+  - first:
+      213: 1615815392603171628
+    second: metalslug_102
+  - first:
+      213: -6329388147893564048
+    second: metalslug_103
+  - first:
+      213: 4876593837001797117
+    second: metalslug_104
+  - first:
+      213: -6420177396212865296
+    second: metalslug_105
+  - first:
+      213: -6508574259074198909
+    second: metalslug_106
+  - first:
+      213: 3550207379747930475
+    second: metalslug_107
+  - first:
+      213: 106816276545060933
+    second: metalslug_108
+  - first:
+      213: -1526680367243153196
+    second: metalslug_109
+  - first:
+      213: -3456570362930708381
+    second: metalslug_110
+  - first:
+      213: -3456054657692342037
+    second: metalslug_111
+  - first:
+      213: 2137896974540969674
+    second: metalslug_112
+  - first:
+      213: 3121276920326758526
+    second: metalslug_113
+  - first:
+      213: -7711456717215279483
+    second: metalslug_114
+  - first:
+      213: 386994397960191460
+    second: metalslug_115
+  - first:
+      213: 1067943026941055553
+    second: metalslug_116
+  - first:
+      213: 4256935752440083376
+    second: metalslug_117
+  - first:
+      213: -946286244707942440
+    second: metalslug_118
+  - first:
+      213: -4776131934735354100
+    second: metalslug_119
+  - first:
+      213: -9166972065502478185
+    second: metalslug_120
+  - first:
+      213: -3097607601480648593
+    second: metalslug_121
+  - first:
+      213: -7254282648626223623
+    second: metalslug_122
+  - first:
+      213: -1261423153795987487
+    second: metalslug_123
+  - first:
+      213: 4354652965373010428
+    second: metalslug_124
+  - first:
+      213: 7393101664320491369
+    second: metalslug_125
+  - first:
+      213: -7289019115097302768
+    second: metalslug_126
+  - first:
+      213: 5014635638860691470
+    second: metalslug_127
+  - first:
+      213: 1756703560740656953
+    second: metalslug_128
+  - first:
+      213: 1989880672352205224
+    second: metalslug_129
+  - first:
+      213: 5281567015977269172
+    second: metalslug_130
+  - first:
+      213: -3325285162847216667
+    second: metalslug_131
+  - first:
+      213: -728600067068957715
+    second: metalslug_132
+  - first:
+      213: -6620382892454585318
+    second: metalslug_133
+  - first:
+      213: -8105958344310909216
+    second: metalslug_134
+  - first:
+      213: 4918693296664879668
+    second: metalslug_135
+  - first:
+      213: 1128527105990377124
+    second: metalslug_136
+  - first:
+      213: 1796164878689695374
+    second: metalslug_137
+  - first:
+      213: -2869142466108414009
+    second: metalslug_138
+  - first:
+      213: -2145599417864712671
+    second: metalslug_139
+  - first:
+      213: -2968618946148675796
+    second: metalslug_140
+  - first:
+      213: -4127883689865193919
+    second: metalslug_141
+  - first:
+      213: 3226745146914059413
+    second: metalslug_142
+  - first:
+      213: -3966327024231805168
+    second: metalslug_143
+  - first:
+      213: 4533826334418398633
+    second: metalslug_144
+  - first:
+      213: 4692047752540158134
+    second: metalslug_145
+  - first:
+      213: -305402870732778497
+    second: metalslug_146
+  - first:
+      213: -1332489769253384519
+    second: metalslug_147
+  - first:
+      213: -6135365907511772551
+    second: metalslug_148
+  - first:
+      213: -8036202298936577783
+    second: metalslug_149
+  - first:
+      213: -8208961050612011966
+    second: metalslug_150
+  - first:
+      213: 6381188577118382057
+    second: metalslug_151
+  - first:
+      213: -6243348883795583152
+    second: metalslug_152
+  - first:
+      213: -2582389425374214617
+    second: metalslug_153
+  - first:
+      213: -4499431728498896156
+    second: metalslug_154
+  - first:
+      213: 2415794841048651505
+    second: metalslug_155
+  - first:
+      213: -2662833348396645229
+    second: metalslug_156
+  - first:
+      213: 3185220118176217713
+    second: metalslug_157
+  - first:
+      213: -7259933773005810647
+    second: metalslug_158
+  - first:
+      213: -3305242212777643760
+    second: metalslug_159
+  - first:
+      213: 7499876410783506559
+    second: metalslug_160
+  - first:
+      213: -5527828358834782091
+    second: metalslug_161
+  - first:
+      213: -8594566040646069934
+    second: metalslug_162
+  - first:
+      213: 2482703259998771626
+    second: metalslug_163
+  - first:
+      213: -3675736059950851651
+    second: metalslug_164
+  - first:
+      213: 4923132953584289487
+    second: metalslug_165
+  - first:
+      213: 5583051048806350503
+    second: metalslug_166
+  - first:
+      213: -8594466991184499755
+    second: metalslug_167
+  - first:
+      213: 9121082705205485389
+    second: metalslug_168
+  - first:
+      213: 4998427401918092253
+    second: metalslug_169
+  - first:
+      213: -134466428413887858
+    second: metalslug_170
+  - first:
+      213: -1698904362936313045
+    second: metalslug_171
+  - first:
+      213: 59366019450796680
+    second: metalslug_172
+  - first:
+      213: -6842369305964999259
+    second: metalslug_173
+  - first:
+      213: -1540666443993183943
+    second: metalslug_174
+  - first:
+      213: -6378091046497702956
+    second: metalslug_175
+  - first:
+      213: 1972782186931857775
+    second: metalslug_176
+  - first:
+      213: 130567292871363297
+    second: metalslug_177
+  - first:
+      213: 4065218848892582738
+    second: metalslug_178
+  - first:
+      213: -6106540351781353426
+    second: metalslug_179
+  - first:
+      213: 9090808629654196856
+    second: metalslug_180
+  - first:
+      213: 4020278822887264727
+    second: metalslug_181
+  - first:
+      213: 8704803504258391718
+    second: metalslug_182
+  - first:
+      213: 4944857613244548351
+    second: metalslug_183
+  - first:
+      213: 5365066311341196999
+    second: metalslug_184
+  - first:
+      213: -7781728597203586963
+    second: metalslug_185
+  - first:
+      213: -6026276620694512683
+    second: metalslug_186
+  - first:
+      213: -630021421943946931
+    second: metalslug_187
+  - first:
+      213: 7973957112928681946
+    second: metalslug_188
+  - first:
+      213: 6186580131716651606
+    second: metalslug_189
+  - first:
+      213: 3851974959848585665
+    second: metalslug_190
+  - first:
+      213: 9132932884604397831
+    second: metalslug_191
+  - first:
+      213: -1056290878507364779
+    second: metalslug_192
+  - first:
+      213: 7438464957467505040
+    second: metalslug_193
+  - first:
+      213: 6240861451246673806
+    second: metalslug_194
+  - first:
+      213: 4361331018025070631
+    second: metalslug_195
+  - first:
+      213: -7484837335032917300
+    second: metalslug_196
+  - first:
+      213: 1342565482461340365
+    second: metalslug_197
+  - first:
+      213: 7084548237071069547
+    second: metalslug_198
+  - first:
+      213: 8309370304978744120
+    second: metalslug_199
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: metalslug_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 504
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fa9d33bf6f05980800000000000000
+      internalID: -8552064133609443549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 504
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a74bdc602f360cc0800000000000000
+      internalID: -3745236631614175320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 504
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d58ad9681c584b0800000000000000
+      internalID: -5438728191065170544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 504
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b469e798c2194f20800000000000000
+      internalID: 3407275245833905335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 504
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235875520db1d23f0800000000000000
+      internalID: -924051767747443406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_6
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 504
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69298e6337ef20db0800000000000000
+      internalID: -4827016079791844714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 504
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc48d812c98843120800000000000000
+      internalID: 2392687506199774413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_8
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 504
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af971b107a534710800000000000000
+      internalID: 1676282923849326496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_9
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 504
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bf958f668f8c6a0800000000000000
+      internalID: -6428615346934383808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_10
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 504
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95aa9a270a33b9eb0800000000000000
+      internalID: -4712115820901586343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 464
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4d9b4cf3a544a30800000000000000
+      internalID: 4198579982546097336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 464
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ff353e69f9b1f70800000000000000
+      internalID: 9159089737595879184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 464
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badb954b283dcdb40800000000000000
+      internalID: 5466476606045928875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_14
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 464
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7173725fefdca3030800000000000000
+      internalID: 3475316557388134167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 464
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399f91ac1e94086f0800000000000000
+      internalID: -684465909253146221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 464
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615af610116d15040800000000000000
+      internalID: 4634720860067833110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_17
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 464
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcee663be8b30d470800000000000000
+      internalID: 8417293187636719309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_18
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 464
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62d7475ac9cefd00800000000000000
+      internalID: 1008465237462471274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_19
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 464
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b381361225c3042e0800000000000000
+      internalID: -2143647099183228869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_20
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 463
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b8c340c634b2390800000000000000
+      internalID: -7842100194928981106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_60
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 364
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdbc9b4fdcd8a5e0800000000000000
+      internalID: -1898024391332282888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_61
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 365
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc223437fea91aa30800000000000000
+      internalID: 4224828278671876813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_62
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 367
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8c880e1b9f36e50800000000000000
+      internalID: 6801554404631169246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_63
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 370
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3276916bdf37420800000000000000
+      internalID: 2626721966239196119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_64
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 371
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9002800049804b00800000000000000
+      internalID: 810798840906121373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_65
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 370
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c20b6345ed8cbe0800000000000000
+      internalID: -1456670026178221017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_66
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 366
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da94db7b33e2c200800000000000000
+      internalID: 198971178177829588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_67
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 364
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bc579de6e7d9c10800000000000000
+      internalID: 2061943218965433238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_68
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 369
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76e3664861147830800000000000000
+      internalID: 4067895502977623678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_69
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 369
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe2a0882ae9f1b70800000000000000
+      internalID: 8871984211847425722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_70
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 369
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe412ece1e19fdd0800000000000000
+      internalID: -2451895404470382913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_71
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 368
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5199a5ff93809abd0800000000000000
+      internalID: -2618552663148947179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_72
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 332
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26a6886fd61a23c0800000000000000
+      internalID: -4383666138504583633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_73
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 336
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1355e0e658850f120800000000000000
+      internalID: 2445551927762507057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_74
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 342
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd6a484a4fe43480800000000000000
+      internalID: -8920241859594654274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_75
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 334
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a572408441c8f720800000000000000
+      internalID: 2880264461657208230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_76
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 295
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c81f67aa60414140800000000000000
+      internalID: 4702110312771295426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_77
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 294
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51557978a7a18db0800000000000000
+      internalID: -4791364186511421094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_78
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 300
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a18fb6155e1c75c0800000000000000
+      internalID: -4216461800322924125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_79
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 300
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e3d6bed6120a900800000000000000
+      internalID: 693591098600013346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_80
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 300
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f90c0d8cf4670030800000000000000
+      internalID: 3460845874518428150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_81
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 300
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c1b84cf22c20500800000000000000
+      internalID: 361064430559763612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_82
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 324
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ab2679a0de91e30800000000000000
+      internalID: 4474868334514584131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_83
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 315
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c3e40ecd54ffa20800000000000000
+      internalID: 3098271883612535929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_84
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 300
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e05c6b43eafa5ec0800000000000000
+      internalID: -3577271099862527767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_85
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 200
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1855c43147fb79c10800000000000000
+      internalID: 2060325859806172545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_86
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 198
+        width: 47
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000ad09ab5a328860800000000000000
+      internalID: 7530645692269568000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_87
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 198
+        width: 47
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba29158d7e9d9eba0800000000000000
+      internalID: -6059072233860394325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_88
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 197
+        width: 48
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdac5ba36b8e790d0800000000000000
+      internalID: -3416005922970547492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_89
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 196
+        width: 48
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a4711249e5c0db0800000000000000
+      internalID: -4824377110517298600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_90
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 194
+        width: 47
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e244dc240af25fb0800000000000000
+      internalID: -4660387768536120599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_91
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 191
+        width: 48
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadd38af456c48ad0800000000000000
+      internalID: -2700815808232956500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_92
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 94
+        width: 47
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f995ae7a5a297ae80800000000000000
+      internalID: -8167398159028692577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_93
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 94
+        width: 47
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f39db1425e46300800000000000000
+      internalID: 244572223033655056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_94
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 98
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26ca43bbbe37b100800000000000000
+      internalID: 123636490663806506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_95
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 103
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029cb09babcbd0910800000000000000
+      internalID: 1805306535799933216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_96
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 108
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1febce93d7e1fb5e0800000000000000
+      internalID: -1891759795280757007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_97
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 107
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8c741f51d2c7030800000000000000
+      internalID: 3493716983198238932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_98
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 109
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb5333d0e1886a10800000000000000
+      internalID: 1902913645180050367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_99
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 113
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c646ff52280a680800000000000000
+      internalID: -8745847376643330913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_100
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 34
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb65345c82963b60800000000000000
+      internalID: 7725523342206528489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_101
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 60
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c1ace72aae32dd0800000000000000
+      internalID: -2511906183509828577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_102
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 91
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b68b2e9878c6610800000000000000
+      internalID: 1615815392603171628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_103
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 19
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d8c37930f7928a0800000000000000
+      internalID: -6329388147893564048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_104
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 52
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfde958e1442da340800000000000000
+      internalID: 4876593837001797117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_105
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 25
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f66db77ca2f6e6a0800000000000000
+      internalID: -6420177396212865296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_107
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 76
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6188d45dced44130800000000000000
+      internalID: 3550207379747930475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_108
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 60
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540c2bb66dc7b7100800000000000000
+      internalID: 106816276545060933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_109
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 60
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0b8e07b4420dae0800000000000000
+      internalID: -1526680367243153196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_110
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 62
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3604f50919bc700d0800000000000000
+      internalID: -3456570362930708381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_111
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 23
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8e9eb8990a900d0800000000000000
+      internalID: -3456054657692342037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_112
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 52
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac695e5a8f55bad10800000000000000
+      internalID: 2137896974540969674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_113
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 52
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70a3b162d0015b20800000000000000
+      internalID: 3121276920326758526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_114
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 31
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586559509f66bf490800000000000000
+      internalID: -7711456717215279483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_115
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 32
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edbb74ca51ee5500800000000000000
+      internalID: 386994397960191460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_116
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 35
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1425d29568812de00800000000000000
+      internalID: 1067943026941055553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_117
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 46
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3f9db338ca31b30800000000000000
+      internalID: 4256935752440083376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_119
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 33
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0733b57f45c7bdb0800000000000000
+      internalID: -4776131934735354100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalslug_120
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 27
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790cbc1a97f58c080800000000000000
+      internalID: -9166972065502478185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
