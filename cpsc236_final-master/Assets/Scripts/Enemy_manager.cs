@@ -25,8 +25,7 @@ public class Enemy_manager : MonoBehaviour
 
     void SpawnEnemy()
     {
-        float y = 1.25f;
-        Vector3 spawnPoint = Camera.main.ViewportToWorldPoint(new Vector3(Random.Range(0, 1f), y, 0));
+        Vector3 spawnPoint = Camera.main.ViewportToWorldPoint(new Vector3(Random.Range(0.6f, 1f), Random.Range(0.01f, 0.4f), 0));
         spawnPoint.z = 0;
 
         //Adjust x-axis position

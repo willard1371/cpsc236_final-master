@@ -20,12 +20,11 @@ public class BulletController : MonoBehaviour
     }
 
     // Update is called once per frame
+
     void Update()
     {
-        if(Camera.main.WorldToViewportPoint(transform.position).y > 1) //takes position in viewport, like where bullet it, if it goes out it deletes the object
-		{
+        if (Camera.main.WorldToViewportPoint(transform.position).x > 1)
             Destroy(this.gameObject);
-		}
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -33,7 +32,6 @@ public class BulletController : MonoBehaviour
         if (collision.gameObject.layer == 8)
         {
             GameObject.Destroy(this.gameObject);
-
         }
 
 
